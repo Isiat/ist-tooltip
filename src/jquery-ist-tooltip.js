@@ -1,6 +1,6 @@
 ;(function($, window, undefined){
 
-  //Plugin tooltip
+  //Plugin tooltip 
   //use $(".tooltip").istTooltip();
   $.fn.istTooltip = function(opts) {
    var defaults = {
